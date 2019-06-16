@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Código"
+        android:enabled="false"
         android:inputType="number" />
 
     <EditText
